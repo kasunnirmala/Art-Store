@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BackEnd:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4037a76-6456-4786-91be-05ed750c8bb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/app/dto/Member.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/app/dto/Paint.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/app/dto/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/AdminLTE.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/_all-skins.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/layout-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/layout.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/1920x1080/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/1920x1080/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/Air-plant-on-a-clean-lined-counter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/MP900438553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/c08850b827f82edffa7008c5719c9ea4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x300/kt_freebie_aitonepage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x415/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/397x415/6ac9e6b74a0b41416a06dcfe14b0a8b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/iStock_000009297367Large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/inspire1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/inspire2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/inspire3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/light-coffee-pen-working.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/500x500/title-support-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/800x400/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/800x400/test.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/970x647/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/970x647/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/970x647/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/background/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/background/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/Juniper-Networks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/Loreal-paris-logo-vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/Rovio-Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/Zurich_Logo_new.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/a_sig_horiz_1c_k_png_website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/ecf_logo_2014_blue_on_white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/clients/nordeus_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/logoN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/port1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/port2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/portfolio/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/img/widgets/gmap-pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/adminlte.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/masonry.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/components/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/layout.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/components/_accordion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/gui/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/gui/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/gui/_work.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/pages/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/plugins/_back-to-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/plugins/_bootstrap-components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/plugins/_swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/utils/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/sass/utils/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.back-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.smooth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/jquery.wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/masonry/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/masonry/jquery.masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/icons-lte-ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/simple-line-icons/simple-line-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/js/swiper.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontEnd/src/assets/vendor/swiper/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/BackEnd/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="950811156">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.135" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="5" />
+          <entry key="TsLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="20" />
+          <entry key="html" value="51" />
+          <entry key="java" value="56" />
+          <entry key="js" value="16" />
+          <entry key="properties" value="2" />
+          <entry key="scss" value="1" />
+          <entry key="ts" value="45" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="51" />
+          <entry key="JAVA" value="56" />
+          <entry key="JavaScript" value="16" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="SCSS" value="1" />
+          <entry key="TypeScript" value="45" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="242" />
+          <entry key="dummy" value="3" />
+          <entry key="html" value="3239" />
+          <entry key="java" value="1824" />
+          <entry key="js" value="136" />
+          <entry key="properties" value="13" />
+          <entry key="scss" value="6" />
+          <entry key="ts" value="1743" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="242" />
+          <entry key="HTML" value="3239" />
+          <entry key="JAVA" value="1824" />
+          <entry key="JavaScript" value="136" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="13" />
+          <entry key="SCSS" value="6" />
+          <entry key="TypeScript" value="1743" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>js</find>
+      <find>counter</find>
+      <find>.js-counter</find>
+      <find>anima</find>
+      <find>`</find>
+      <find>subm</find>
+      <find>top</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontEnd" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BackEnd/src/main/resources/application.properties.properties" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/serRepository.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/UserService.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebRootConfig.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/User.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/MemberDTO.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/MemberRepository.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/dto/User.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/service/items.service.ts" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/Member.java" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/logincomponent/logincomponent.component.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/guard/auth.guard.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/loginnav/loginnav.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/assets/sass/layout/_header.scss" />
+        <option value="$PROJECT_DIR$/frontEnd/src/assets/css/layout.css" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/slider/slider.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/assets/css/layout.min.css" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/services/services.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/about/about.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/footer/footer.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/portfolio/portfolio.component.html" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/PaintService.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/PaintRepository.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/Paint.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/impl/PaintServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/controller/PaintController.java" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/dto/Paint.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/dto/Member.ts" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/PaintDTO.java" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/loginnav/loginnav.component.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/header.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/assets/css/AdminLTE.min.css" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/loggednav/loggednav.component.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/service/auth.service.ts" />
+        <option value="$PROJECT_DIR$/frontEnd/src/index.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/logincomponent/logincomponent.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/register/register.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/skill/skill.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/header/loggednav/loggednav.component.html" />
+        <option value="$PROJECT_DIR$/frontEnd/src/app/view/dashboardnavi/dashboardnavi.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/frontEnd/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/frontEnd/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1165" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539880053530" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\src\app\view" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lk.artstore.spring.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\src\assets\img" />
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\src\assets\img\500x500" />
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\BackEnd\src\main\java\lk\artstore\spring" />
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\src\assets\js" />
+      <recent name="C:\Users\Kasun Nirmala\Desktop\template\TestProject\frontEnd\src\assets\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BackEnd" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BackEnd:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TestProject" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52226" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BackEnd:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_TestProject" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52226" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4037a76-6456-4786-91be-05ed750c8bb8" name="Default Changelist" comment="" />
+      <created>1539067558063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539067558063</updated>
+      <workItem from="1539067560275" duration="15971000" />
+      <workItem from="1539173861916" duration="4033000" />
+      <workItem from="1539183870798" duration="26333000" />
+      <workItem from="1539321346144" duration="36718000" />
+      <workItem from="1539490759738" duration="8128000" />
+      <workItem from="1539877654233" duration="1896000" />
+      <workItem from="1539980061328" duration="1649000" />
+      <workItem from="1540826099032" duration="34000" />
+      <workItem from="1541086711734" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95405000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975" visible="true" weight="0.22550336" />
+      <window_info id="Structure" order="1" sideWeight="0.5025" side_tool="true" weight="0.21140939" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5025" side_tool="true" weight="0.21140939" />
+      <window_info id="Web" order="7" sideWeight="0.5025" side_tool="true" weight="0.21140939" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3101983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32808024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4986577" visible="true" weight="0.30169973" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="CDI" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="JSF" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/frontEnd/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontEnd/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="15331" column="12" selection-start-line="15331" selection-start-column="12" selection-end-line="15331" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/service/items.service.ts" />
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/node_modules/ngx-admin-lte/widgets/user-box/user-box.component.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/logincomponent/logincomponent.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/slider/slider.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/assets/sass/layout/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/assets/css/layout.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9081" selection-start-column="9081" selection-end-column="9081" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/assets/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4012">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/services/services.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/services/services.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/about/about.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="18" column="101" lean-forward="true" selection-start-line="18" selection-start-column="101" selection-end-line="18" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/footer/footer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/Painting.java" />
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/portfolio/portfolio.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="41" column="102" selection-start-line="41" selection-start-column="102" selection-end-line="41" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/PaintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/repository/PaintRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/impl/PaintServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/MemberDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/entity/Paint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/dto/Paint.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/dto/User.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="67" selection-start-line="16" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/dto/PaintDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/loginnav/loginnav.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/main/WebRootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/assets/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="1132" column="1" selection-start-line="1132" selection-start-column="1" selection-end-line="1132" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/loggednav/loggednav.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/loginnav/loginnav.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/guard/auth.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/dto/Member.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/logincomponent/logincomponent.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/register/register.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/skill/skill.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="138" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/header/loggednav/loggednav.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="202" column="50" selection-start-line="202" selection-start-column="50" selection-end-line="202" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/view/dashboardnavi/dashboardnavi.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/app/service/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/java/lk/artstore/spring/controller/PaintController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
